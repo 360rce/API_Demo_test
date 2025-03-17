@@ -1,0 +1,11 @@
+{
+    "domain": "sO/J+GltGvk1JX/EWRgoORGRUXLrayjk6AW8sfySIkVND4Y3VozT71warfsv+mdE",
+    "token": "cERiBXIUXDrLCHBZmjJsDV19LnQV9O672bnzAeMUNba72SRrUojJ//QIl4iJiyot",
+    "maxRunCount": 5,
+    "minSleepTime": 50,
+    "maxSleepTime": 120,
+    "acceptInvitation": false,
+    "browsePosts": false,
+    "autoChat": false,
+    "autoGroupChat": true
+}
