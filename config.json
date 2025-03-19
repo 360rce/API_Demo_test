@@ -4,7 +4,7 @@
     "maxRunCount": 5,
     "minSleepTime": 50,
     "maxSleepTime": 120,
-    "acceptInvitation": false,
+    "acceptInvitation": true,
     "browsePosts": false,
     "autoChat": false,
     "autoGroupChat": true
